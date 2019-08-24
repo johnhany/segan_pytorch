@@ -1,0 +1,4 @@
+[submodule "ahoproc_tools"]
+	path = ahoproc_tools
+	url = https://github.com/johnhany/ahoproc_tools.git
+	branch = python
